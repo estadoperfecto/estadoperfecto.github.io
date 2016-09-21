@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://estadoperfecto.github.io
+title: El Estado Perfecto
+tagline: Notas breves sobre un estado perfecto
+description: My awesome new site
+paginate: 5
