@@ -4,7 +4,7 @@ title: Introducción
 layout: post
 ---
 A lo largo de la historia, el ser humano ha confiado en los estados como garantes de bienestar, seguridad y progreso. Los estados han permitido la creación de distintos marcos en los que la sociedad ha conformado sus reglas. Ya sea un totalitarismo dictatorial (de cualquier signo), como los avanzados estados socialistas nórdicos, todos ellos han contado con un determinado grado de éxito.
-En estas notas vamos a analizar qué es lo que constituye un estado modélico y de que forma se puede llegar a ello.
+En estas notas vamos a analizar qué es lo que constituye un estado modélico y de qué forma se puede llegar a ello.
 
 No se va a rechazar ninguna posibilidad, ya que el único objetivo es lograr, mediante la razón y la lógica, la hipótesis del estado perfecto.
 
