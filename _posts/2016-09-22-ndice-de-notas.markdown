@@ -2,7 +2,6 @@
 published: true
 title: Índice de notas
 layout: post
-permalink: indice
 ---
 ¿Que diferencia a un estado de uno 'mejor'?
 
